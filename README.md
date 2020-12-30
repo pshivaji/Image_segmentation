@@ -1,9 +1,3 @@
-Shivaji parala
-===========================================================
-Student no.45512746
-===========================================================
-Pattern Recognition
-===========================================================
 
 Deep convolutional Generative Aadversarial Networks
 ===========================================================
@@ -131,9 +125,4 @@ Results:
 # Generated images after traning:
 
 ![image info](images/testing_images.png)
-
-
-@Author
-===========================================================
-# Shivaji parala , 45512746 , Pattern recognition
 
